@@ -1,0 +1,5 @@
+Hi {customer_name},
+You have been authorized by {seller_name} to manage their store at the {shop_name}. Authorized content you can see below
+{permission}
+Best regards,
+Please click on this link to accept or decline the request: {link_account}

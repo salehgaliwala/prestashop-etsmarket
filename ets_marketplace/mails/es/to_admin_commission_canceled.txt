@@ -1,0 +1,7 @@
+Hola administrador,
+La comisión de un cliente se cancela. Encuentra los detalles a continuación:
+ID de la comisión: R-{commission_ID}
+Importe de la comisión: {amount}
+Razón: {reason}
+Fecha de creación: {created_date}
+Fecha cancelada: {canceled_date}

@@ -1,0 +1,8 @@
+Ciao amministratore,
+È stata inviata una nuova richiesta di prelievo. Leggi le informazioni dettagliate di questa richiesta ed elaborale:
+ID prelievo: {withdrawal_ID}
+Importo del prelievo: {amount}
+Dal venditore: {seller_name}
+Metodo di pagamento: {payment_method}
+Data di creazione: {created_date}
+Data elaborata (stimata): {processed_date}

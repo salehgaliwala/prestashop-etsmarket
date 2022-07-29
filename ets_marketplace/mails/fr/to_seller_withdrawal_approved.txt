@@ -1,0 +1,6 @@
+Bonjour {seller_name},
+Votre demande de retrait a été approuvée. Vous trouverez ci-dessous des informations détaillées sur la demande de retrait :
+ID de retrait : {withdrawal_ID}
+Montant de retrait : {amount}
+Mode de paiement : {payment_method}
+Date confirmée : {approved_date}

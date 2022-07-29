@@ -1,0 +1,3 @@
+Ciao amministratore,
+{seller_name} ha appena presentato una domanda per entrare nel mercato.
+{seller_application_content_txt}

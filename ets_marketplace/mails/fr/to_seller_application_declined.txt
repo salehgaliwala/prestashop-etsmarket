@@ -1,0 +1,5 @@
+Bonjour {seller_name},
+Votre candidature a été refusée.
+Raison : {application_declined_reason}
+Cordialement.
+

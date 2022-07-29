@@ -1,0 +1,6 @@
+Ciao amministratore,
+Una commissione del cliente è approvata. Trova i dettagli di seguito:
+ID commissione: R-{commission_ID}
+Importo della commissione: {amount}
+Data di creazione: {created_date}
+Data approvata: {approved_date}

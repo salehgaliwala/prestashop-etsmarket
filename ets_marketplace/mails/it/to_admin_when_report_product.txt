@@ -1,0 +1,4 @@
+Ciao amministratore,
+{reporter} ha appena segnalato {product_name} come abusato.
+{title}
+{content}

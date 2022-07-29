@@ -1,0 +1,7 @@
+Bonjour administrateur,
+Une commission client est annulée. Trouvez les détails ci-dessous :
+ID de commission : R-{commission_ID}
+Montant de la commission : {amount}
+Raison: {reason}
+Date de création : {created_date}
+Date annulée : {canceled_date}

@@ -1,0 +1,4 @@
+Hi admin,
+{reporter} just reported product {product_name} as abused.
+{title}
+{content}

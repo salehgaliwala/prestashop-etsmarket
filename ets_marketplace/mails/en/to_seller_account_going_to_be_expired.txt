@@ -1,0 +1,7 @@
+Hi {seller_name},
+Your seller account is going to be expired on {date}. Please send the recurring fee to us in order to renew your seller account.
+Fee amount: {fee_amount}
+Here is our payment information:
+{payment_information}
+Yours sincerely.
+

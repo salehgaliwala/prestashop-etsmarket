@@ -1,0 +1,7 @@
+Ciao {seller_name},
+La tua commissione è stata annullata. Trova i dettagli di seguito:
+ID prelievo: R-{commission_ID}
+Importo del prelievo: {amount}
+Motivo: {Reason}
+Data di creazione: {created_date}
+Data annullata: {approved_date}

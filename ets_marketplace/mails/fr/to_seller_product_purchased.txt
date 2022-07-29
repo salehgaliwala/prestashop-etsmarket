@@ -1,0 +1,10 @@
+Bonjour {seller_name},
+{customer_name} a acheté certains produits de {seller_shop}
+Détails de la commande
+Produits : 
+{product_detail_txt}
+Référence de l'achat : {order_reference} 
+Paiement total : {total_payment}
+Date d'achat : {purchased_date}
+Statut de la commande : {order_status}
+Cordialement.

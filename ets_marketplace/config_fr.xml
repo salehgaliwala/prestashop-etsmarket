@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ets_marketplace</name>
+    <displayName><![CDATA[Marketplace Builder]]></displayName>
+    <version><![CDATA[3.1.4]]></version>
+    <description><![CDATA[Transformez PrestaShop en marketplace en quelques &eacute;tapes simples. Le module de marketplace PrestaShop multi-vendeurs #1 qui permet aux vendeurs de mettre leurs produits en vente en payant un pourcentage pour chaque vente ou des frais d&rsquo;adh&eacute;sion.]]></description>
+    <author><![CDATA[ETS-Soft]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,4 @@
+Hi admin,
+{reporter} just reported {shop_seller} as abused.
+{title}
+{content}

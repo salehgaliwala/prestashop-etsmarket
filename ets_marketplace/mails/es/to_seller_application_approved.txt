@@ -1,0 +1,5 @@
+Hola {seller_name},
+Su solicitud ha sido aceptada.
+Puedes crear tu tienda ahora
+Tuyo sinceramente.
+

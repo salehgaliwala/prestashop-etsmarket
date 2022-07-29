@@ -1,0 +1,7 @@
+Bonjour administrateur,
+Vous avez refusé une demande de retrait. Vous trouverez ci-dessous des informations détaillées sur la demande de retrait :
+ID de retrait : {withdrawal_ID}
+Montant de retrait : {amount}
+Du vendeur : {seller_name}
+Mode de paiement : {payment_method}
+Raison : {reason}

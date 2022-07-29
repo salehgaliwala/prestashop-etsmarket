@@ -1,0 +1,6 @@
+Hola {seller_name},
+Su comisión está aprobada. Encuentra los detalles a continuación:
+ID de comisión: R-{commission_ID}
+Importe de la comisión: {amount}
+Fecha de creación: {created_date}
+Fecha aprobada: {approved_date}

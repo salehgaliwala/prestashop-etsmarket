@@ -1,0 +1,6 @@
+Bonjour {seller_name},
+Votre produit {product_name} a été approuvé.
+ID produit : {product_ID}
+Lien produit : {product_link}
+Vous pouvez maintenant commencer à vendre le produit. Bonne chance pour la vente !
+Cordialement.

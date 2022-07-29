@@ -1,0 +1,7 @@
+Ciao amministratore,
+La commissione di un cliente viene annullata. Trova i dettagli di seguito:
+ID commissione: R-{commission_ID}
+Importo della commissione: {amount}
+Motivo: {reason}
+Data di creazione: {created_date}
+Data annullata: {canceled_date}

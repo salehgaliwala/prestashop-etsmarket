@@ -1,0 +1,7 @@
+Hi {seller_name},
+Your commission is canceled. Find details below:
+ID commission: R-{commission_ID}
+Commission amount: {amount}
+Reason: {Reason}
+Created date: {created_date}
+Canceled date: {approved_date}

@@ -1,0 +1,6 @@
+Hi Admin,
+You have approved a withdrawal request. Below is detailed information of the withdrawal request:
+Withdrawal ID: {withdrawal_ID}
+Withdrawal amount: {amount}
+From seller: {seller_name}
+Payment method: {payment_method}

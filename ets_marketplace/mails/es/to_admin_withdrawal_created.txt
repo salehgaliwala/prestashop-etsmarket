@@ -1,0 +1,8 @@
+Hola administrador,
+Se ha enviado una nueva solicitud de retiro. Revise la información detallada de esta solicitud y trátela:
+Identificación de retiro: {withdrawal_ID}
+Cantidad de retiro: {amount}
+Del vendedor: {seller_name}
+Método de pago: {payment_method}
+Fecha de creación: {created_date}
+Fecha procesada (estimada): {processed_date}

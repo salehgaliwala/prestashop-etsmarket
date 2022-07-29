@@ -1,0 +1,3 @@
+Bonjour {seller_name},
+Votre compte vendeur vient d'être désactivé. Si vous souhaitez continuer à utiliser ce compte vendeur, veuillez nous contacter via notre email : {store_email}
+Cordialement.

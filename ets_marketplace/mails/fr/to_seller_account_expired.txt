@@ -1,0 +1,3 @@
+Bonjour {seller_name},
+Votre compte vendeur vient d'être expiré. Si vous souhaitez continuer à utiliser le compte vendeur, veuillez nous contacter via notre email : {store_email}
+Cordialement.

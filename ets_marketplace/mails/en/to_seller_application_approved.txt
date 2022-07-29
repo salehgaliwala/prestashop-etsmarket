@@ -1,0 +1,5 @@
+Hi {seller_name},
+Your application has been accepted.
+You can create your shop now
+Yours sincerely.
+

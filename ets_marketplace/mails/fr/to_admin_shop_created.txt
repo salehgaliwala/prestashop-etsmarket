@@ -1,0 +1,7 @@
+Bonjour administrateur,
+{seller_name} vient de créer une boutique
+Vous trouverez ci-dessous les informations sur la boutique :
+Nom de la boutique : {shop_seller_name}
+Description de la boutique : {shop_description}
+Adresse de la boutique : {shop_address}
+Numéro de téléphone : {shop_phone}

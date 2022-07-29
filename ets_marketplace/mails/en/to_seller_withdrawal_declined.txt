@@ -1,0 +1,7 @@
+Hi {seller_name},
+Your withdrawal request has been declined. Below is detailed information of the withdrawal request:
+Withdrawal ID: {withdrawal_ID}
+Withdrawal amount: {amount}
+Payment method: {payment_method}
+Declined date: {declined_date}
+Reason: {reason}

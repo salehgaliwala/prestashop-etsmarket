@@ -1,0 +1,3 @@
+Ciao {seller_name},
+Il tuo account venditore è appena scaduto. Se desideri continuare a utilizzare l'account venditore, ti preghiamo di contattarci tramite la nostra e-mail: {store_email}
+Sinceramente tuo.

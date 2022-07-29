@@ -1,0 +1,6 @@
+Hi {seller_name},
+Your seller account will be disabled on {date}. If you want to continue using this seller account, please send the recurring fee to us before {date}
+Fee amount: {fee_amount}
+Here is our payment information:
+{payment_information}
+Yours sincerely.

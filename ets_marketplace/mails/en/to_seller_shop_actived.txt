@@ -1,0 +1,3 @@
+Hi {seller_name},
+Congratulations! Your shop is now activated
+Yours sincerely.

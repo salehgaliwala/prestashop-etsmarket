@@ -1,0 +1,7 @@
+Bonjour administrateur,
+Vendeur {seller_name} vient de télécharger un nouveau produit sur le marché
+Courriel du vendeur : {seller_email}
+Nom de la boutique : {shop_seller}
+ID produit : {product_ID}
+Nom du produit : {product_name}
+Cordialement.

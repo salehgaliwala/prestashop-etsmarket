@@ -1,0 +1,4 @@
+Bonjour {seller_name},
+Désolé ! La création de votre boutique est refusée.
+Raison : {reason}
+Cordialement.

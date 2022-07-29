@@ -1,0 +1,4 @@
+Hi {seller_name},
+Sorry! Your shop creation has been declined
+Reason: {reason}
+Yours sincerely.

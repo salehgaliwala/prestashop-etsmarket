@@ -1,0 +1,6 @@
+Hi Admin,
+A customer's commission is approved. Find details below:
+Commission ID: R-{commission_ID}
+Commission amount: {amount}
+Created date: {created_date}
+Approved date: {approved_date}

@@ -1,0 +1,6 @@
+Hola {seller_name},
+Gracias por unirse a nuestro mercado. El proceso está casi terminado.
+Para convertirse en vendedor y comenzar a vender sus productos, envíenos una tarifa de registro de {fee_amount} para completar el proceso de registro
+Aquí está nuestra información de pago:
+{payment_information}
+Tuyo sinceramente.

@@ -1,0 +1,5 @@
+Hola {seller_name},
+Su cuenta de vendedor acaba de ser deshabilitada.
+Razón: {reason}
+Si desea continuar usando la cuenta del vendedor, contáctenos a través de nuestro correo electrónico: {store_email}
+Tuyo sinceramente.

@@ -1,0 +1,5 @@
+Hi admin,
+{seller_name} has been confirmed payment #{invoice_ref}
+Subject: {subject}
+Content:
+{content}

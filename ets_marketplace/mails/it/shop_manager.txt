@@ -1,0 +1,5 @@
+Ciao {customer_name},
+Sei stato autorizzato da {seller_name} a gestire il suo negozio in {shop_name}. Contenuto autorizzato che puoi vedere di seguito:
+{permission}
+I migliori saluti,
+Fai clic su questo link per accettare o rifiutare la richiesta: {link_account}

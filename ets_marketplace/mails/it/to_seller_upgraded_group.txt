@@ -1,0 +1,5 @@
+Ciao {seller_name},
+
+Il tuo negozio è stato aggiornato con una commissione di {fee_type}: {fee_amount} e il tasso di commissione è {commission_rate}
+
+Sinceramente tuo,

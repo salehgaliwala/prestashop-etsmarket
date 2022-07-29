@@ -1,0 +1,3 @@
+Hello {seller_name},
+You just got a message sent to the {seller_shop_name} store. Below is the message detail:
+{content_message}

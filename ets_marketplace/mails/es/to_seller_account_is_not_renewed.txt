@@ -1,0 +1,6 @@
+Hola {seller_name},
+Su cuenta de vendedor estará desactivada el {date}. Si desea continuar utilizando la cuenta del vendedor, envíenos la tarifa recurrente antes del {date}
+Importe de la tarifa: {fee_amount}
+Aquí está nuestra información de pago:
+{payment_information}
+Tuyo sinceramente.

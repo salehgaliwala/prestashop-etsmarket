@@ -1,0 +1,7 @@
+Bonjour {seller_name},
+Votre compte vendeur va expirer le {date}. Veuillez nous envoyer les frais récurrents afin de renouveler votre compte vendeur.
+Montant des frais : {fee_amount}
+Voici nos informations de paiement :
+{payment_information}
+Cordialement.
+

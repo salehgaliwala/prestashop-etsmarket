@@ -1,0 +1,7 @@
+Bonjour {seller_name},
+Votre commission a été annulée. Trouvez les détails ci-dessous :
+ID de commission : R-{commission_ID}
+Montant de la commission : {amount}
+Raison : {Reason}
+Date de création : {created_date}
+Date annulée : {approved_date}

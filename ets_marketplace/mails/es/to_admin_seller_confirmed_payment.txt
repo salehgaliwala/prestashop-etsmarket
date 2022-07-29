@@ -1,0 +1,7 @@
+Hola administrador,
+{seller_name} ha confirmado el pago de la facturación {billing_number}
+Encuentra los detalles a continuación:
+Número de facturación: {billing_number}
+Nombre de tienda: {shop_seller}
+Cantidad: {amount}
+Fecha confirmada: {confirmed_date}

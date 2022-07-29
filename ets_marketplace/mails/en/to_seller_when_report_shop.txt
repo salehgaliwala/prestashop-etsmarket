@@ -1,0 +1,5 @@
+Hi {seller_name},
+{reporter} just reported your shop {shop_name} created by {shop_seller} as abused.
+{title}
+{content}
+View shop : {link_report}

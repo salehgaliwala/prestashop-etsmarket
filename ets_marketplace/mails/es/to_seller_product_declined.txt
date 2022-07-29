@@ -1,0 +1,6 @@
+Hola {seller_name},
+Su producto {product_name} fue rechazado. 
+ID de producto: {product_ID}
+Razón: {reason}
+Gracias por tu tiempo.
+Tuyo sinceramente.

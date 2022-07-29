@@ -1,0 +1,5 @@
+Hi {seller_name},
+
+Your shop has been upgraded with {fee_type}: {fee_amount} fee and commission rate is {commission_rate}
+
+Best regards,

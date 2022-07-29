@@ -1,0 +1,4 @@
+Hola administrador,
+{reporter} acaba de informar {shop_seller} como abuso.
+{title}
+{content}

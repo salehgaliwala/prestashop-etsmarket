@@ -1,0 +1,3 @@
+Hola {seller_name},
+{customer_name} ha enviado un nuevo mensaje de contacto a {seller_shop_name}. A continuación se muestra el detalle del mensaje:
+{content_message}

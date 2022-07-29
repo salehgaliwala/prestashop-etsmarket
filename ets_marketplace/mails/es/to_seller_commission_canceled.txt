@@ -1,0 +1,7 @@
+Hola {seller_name},
+Tu comisión ha sido cancelada. Encuentra los detalles a continuación:
+ID de comisión: R-{commission_ID}
+Importe de la comisión: {amount}
+Razón: {Reason}
+Fecha de creación: {created_date}
+Fecha cancelada: {approved_date}

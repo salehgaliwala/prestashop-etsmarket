@@ -1,0 +1,7 @@
+Ciao amministratore,
+Hai rifiutato una richiesta di prelievo. Di seguito sono riportate informazioni dettagliate sulla richiesta di prelievo:
+ID prelievo: {withdrawal_ID}
+Importo del prelievo: {amount}
+Dal venditore: {seller_name}
+Metodo di pagamento: {payment_method}
+Motivo: {reason}

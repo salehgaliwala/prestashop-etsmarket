@@ -1,0 +1,6 @@
+Bonjour {seller_name},
+Merci d'avoir rejoint notre place de marché. Le processus est presque terminé.
+Pour devenir vendeur et commencer à vendre vos produits, veuillez nous envoyer des frais d'inscription de {fee_amount} pour terminer le processus d'enregistrement.
+Voici nos informations de paiement :
+{payment_information}
+Cordialement.

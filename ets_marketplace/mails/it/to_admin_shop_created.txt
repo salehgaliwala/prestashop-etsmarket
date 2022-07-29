@@ -1,0 +1,7 @@
+Ciao amministratore,
+{seller_name} ha appena creato un negozio
+Di seguito sono riportate le informazioni sul negozio:
+Nome del negozio: {shop_seller_name}
+Descrizione del negozio: {shop_description}
+Indirizzo del negozio: {shop_address}
+Numero di telefono: {shop_phone}

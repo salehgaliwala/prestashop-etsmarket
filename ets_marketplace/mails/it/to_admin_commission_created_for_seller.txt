@@ -1,0 +1,8 @@
+Ciao amministratore,
+Viene creata una nuova commissione per {seller_name}. Trova i dettagli di seguito:
+ID commissione: R-{commission_ID}
+Importo della commissione: {amount}
+Prodotto venduto: {product_name}
+Riferenza dell'ordine: {order_reference}
+Data di creazione: {created_date}
+Stato: {status}

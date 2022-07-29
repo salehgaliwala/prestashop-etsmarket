@@ -1,0 +1,6 @@
+Hola administrador,
+Se aprueba la comisión de un cliente. Encuentra los detalles a continuación:
+ID de la comisión R-{commission_ID}
+Importe de la comisión {amount}
+Fecha de creación {created_date}
+Fecha aprobada: {approved_date}

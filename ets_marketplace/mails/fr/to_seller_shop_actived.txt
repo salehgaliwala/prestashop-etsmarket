@@ -1,0 +1,3 @@
+Bonjour {seller_name},
+Toutes nos félicitations! Votre boutique est maintenant activée.
+Cordialement.

@@ -1,0 +1,5 @@
+Hola {customer_name},
+{seller_name} lo autorizó a administrar sus tienda en {shop_name}. Contenido autorizado que puedes ver a continuación
+{permission}
+Atentamente,
+Haga clic en este enlace para aceptar o rechazar la solicitud: {link_account}

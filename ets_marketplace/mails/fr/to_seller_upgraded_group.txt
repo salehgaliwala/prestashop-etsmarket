@@ -1,0 +1,5 @@
+Bonjour {seller_name},
+
+Votre boutique a été mise à niveau avec {fee_type}: {fee_amount} frais et taux de commission est de {commission_rate}
+
+Sincères salutations,

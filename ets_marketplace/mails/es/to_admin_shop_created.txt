@@ -1,0 +1,7 @@
+Hola administrador,
+{seller_name} acaba de crear una tienda
+A continuación se muestra información de la tienda:
+Nombre de tienda: {shop_seller_name}
+Descripción de la tienda: {shop_description}
+Dirección de la tienda: {shop_address}
+Número de teléfono: {shop_phone}

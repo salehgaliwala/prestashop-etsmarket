@@ -1,0 +1,7 @@
+Hi Admin,
+{seller_name} has confirmed the payment of billing {billing_number}
+Find detail below:
+Billing number: {billing_number}
+Shop name: {shop_seller}
+Amount: {amount}
+Confirmed date: {confirmed_date}

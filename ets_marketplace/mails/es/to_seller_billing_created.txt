@@ -1,0 +1,5 @@
+Hola {seller_name},
+Se crea una facturación para usted. Descargue la factura adjunta y envíenos el pago.
+Aquí está nuestra información de pago:
+{payment_information}
+Tuyo sinceramente.

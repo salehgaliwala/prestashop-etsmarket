@@ -1,0 +1,3 @@
+Bonjour administrateur,
+{seller_name} vient de déposer une candidature pour rejoindre le marché
+{seller_application_content_txt}

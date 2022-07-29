@@ -1,0 +1,7 @@
+Ciao {seller_name},
+Il tuo account venditore scadrà il {date}. Inviaci la tariffa ricorrente per rinnovare il tuo account venditore.
+Importo tassa: {fee_amount}
+Ecco le nostre informazioni di pagamento:
+{payment_information}
+Sinceramente tuo.
+

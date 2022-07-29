@@ -1,0 +1,7 @@
+Hi Admin,
+A customer's commission is canceled. Find details below:
+ID commission: R-{commission_ID}
+Commission amount: {amount}
+Reason: {reason}
+Created date: {created_date}
+Canceled date: {canceled_date}

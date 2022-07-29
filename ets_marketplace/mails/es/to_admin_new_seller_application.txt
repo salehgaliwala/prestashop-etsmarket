@@ -1,0 +1,3 @@
+Hola administrador,
+{seller_name} acaba de enviar una solicitud para unirse al mercado
+{seller_application_content_txt}

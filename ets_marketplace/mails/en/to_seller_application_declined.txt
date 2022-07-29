@@ -1,0 +1,5 @@
+Hi {seller_name},
+Your application has been declined.
+Reason: {application_declined_reason}
+Yours sincerely.
+

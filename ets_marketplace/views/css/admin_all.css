@@ -1,0 +1,299 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+#subtab-AdminMarketPlaceDashboard .icon-dashboard:before,
+#subtab-AdminMarketPlaceOrders .icon-orders:before,
+#subtab-AdminMarketPlaceProducts .icon-products:before,
+#subtab-AdminMarketPlaceCommissions .icon-commission:before,
+#subtab-AdminMarketPlaceCommissionUsage .icon-commission_usage:before,
+#subtab-AdminMarketPlaceBillings .icon-billing:before,
+#subtab-AdminMarketPlaceWithdrawals .icon-withdraw:before,
+#subtab-AdminMarketPlaceRegistrations .icon-sellers_registration:before,
+#subtab-AdminMarketPlaceSellers .icon-sellers:before,
+#subtab-AdminMarketPlaceShopSellers .icon-sellers:before,
+#subtab-AdminMarketPlaceCronJob .icon-Cronjob:before,
+#maintab-AdminMarketPlace a .icon-AdminMarketPlace:before,
+#subtab-AdminMarketPlacePayments .icon-payments:before,
+#subtab-AdminMarketPlaceSettings .icon-settings:before,
+#maintab-AdminMarketPlace i.icon-AdminMarketPlace:before,
+#ellipsistab i.icon-AdminMarketPlace:before,
+#subtab-AdminMarketPlaceRatings a.link i.icon-ratings:first-child:before,
+#maintab-AdminPresToPres .icon-AdminPresToPres:before
+{
+    font-family: Fontawesome, sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    vertical-align: middle;
+    float: left;
+    margin-right:3px;
+    width: 16px;
+    height: 13px;
+}
+#subtab-AdminMarketPlaceDashboard .icon-dashboard,
+#subtab-AdminMarketPlaceOrders .icon-orders,
+#subtab-AdminMarketPlaceProducts .icon-products,
+#subtab-AdminMarketPlaceCommissions .icon-commission,
+#subtab-AdminMarketPlaceCommissionUsage .icon-commission_usage,
+#subtab-AdminMarketPlaceBillings .icon-billing,
+#subtab-AdminMarketPlaceWithdrawals .icon-withdraw,
+#subtab-AdminMarketPlaceRegistrations .icon-sellers_registration,
+#subtab-AdminMarketPlaceSellers .icon-sellers,
+#subtab-AdminMarketPlaceCronJob i.icon-Cronjob,
+#maintab-AdminMarketPlace a .icon-AdminMarketPlace,
+#subtab-AdminMarketPlacePayments .icon-payments,
+#maintab-AdminMarketPlace i.icon-AdminMarketPlace,
+#ellipsistab i.icon-AdminMarketPlace,
+#subtab-AdminEtsPCQuestions a.link i.material-icons,
+#maintab-AdminPresToPres .icon-AdminPresToPres,
+#subtab-AdminMarketPlaceRatings a.link i.icon-ratings,
+#subtab-AdminMarketPlaceShopSellers .icon-sellers,
+#subtab-AdminMarketPlaceSettings .icon-settings{
+    font-size: 0;
+    width: 16px;
+}
+#subtab-AdminMarketPlaceRatings a.link i.icon-ratings:first-child:before {
+    content: "\f005";
+}
+#subtab-AdminMarketPlaceDashboard .icon-dashboard:before{
+    content: "\F0E4";}
+#subtab-AdminMarketPlaceOrders .icon-orders:before{
+    content: "\f07a";}
+#subtab-AdminMarketPlaceProducts .icon-products:before{
+    content: "\f009";}
+#subtab-AdminMarketPlaceCommissions .icon-commission:before{
+    content: "\f2b5";}
+#subtab-AdminMarketPlaceCommissionUsage .icon-commission_usage:before{
+    content: "\f295";}
+#maintab-AdminMarketPlace a .icon-AdminMarketPlace:before{
+    content:"\f217";}
+#subtab-AdminMarketPlaceBillings .icon-billing:before{
+    content: "\f022";}
+#subtab-AdminMarketPlaceWithdrawals .icon-withdraw:before{
+    content: "\f0d6";}
+#subtab-AdminMarketPlaceRegistrations .icon-sellers_registration:before{
+    content: "\f234";}
+#maintab-AdminMarketPlace i.icon-AdminMarketPlace:before,
+#ellipsistab i.icon-AdminMarketPlace:before{
+    content:"\f015";
+}
+#subtab-AdminMarketPlaceSellers .icon-sellers:before,
+#subtab-AdminMarketPlaceShopSellers .icon-sellers:before{content: "\f015";}
+#subtab-AdminMarketPlacePayments .icon-payments:before{content: "\f09d";}
+#subtab-AdminMarketPlaceSettings .icon-settings:before{content: "\f013";}
+#subtab-AdminMarketPlaceCronJob i.icon-Cronjob:before {content: "\f074";}
+#subtab-AdminEtsPCDiscounts.link-levelone a.link i.material-icons,
+#subtab-AdminEtsPCQuestions a.link i.material-icons:before{
+    color: #ffffff!important;
+}
+#subtab-AdminMarketPlaceRegistrations .link b.total,
+#subtab-AdminMarketPlaceSellers .link b.total {
+    background: #ce0505;
+    border-radius: 20px;
+    min-width: 18px;
+    display: inline-block;
+    text-align: center;
+    font-weight: normal;
+    height: 18px;
+    font-size: 11px;
+    color: #fff!important;
+    line-height: 18px;
+    vertical-align: middle;
+    margin-left: 5px;
+    padding: 0 4px;
+}
+.panel.seller_info {
+    margin-bottom: 45px;
+    width: 100%;
+    position: relative;
+    margin-top: 15px;
+    background: #fff;
+    border-radius: 3px;
+    border: 1px solid #dbe6e9;
+    padding: 20px 30px 20px;
+    max-width: 100%;
+}
+.panel.seller_info .panel-header {
+    margin: -5px -30px 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.ets_mp_status.actived,
+.ets_mp_status.approved,
+.ets_mp_status.confirmed_payment{
+    background: #72c279;
+    border-color: #72c279;
+    color: #ffffff;
+}
+.ets_mp_status.pending,
+.ets_mp_status.awaiting_payment {
+    background: #fbbb21;
+    color: #ffffff;
+    border-color: #fbbb21;
+}
+.ets_mp_status.disabled{
+    background: #8c8c8c;
+    color: #ffffff;
+    border-color: #8c8c8c;
+}
+.ets_mp_status.deducted,
+.ets_mp_status.expired {
+    background: #e18f95;
+    color: #ffffff;
+    border-color: #e18f95;
+}
+.ets_mp_status {
+    padding: 2px 7px;
+    font-size: 12px;
+    border-radius: 3px;
+    display: inline-block;
+}
+.panel.seller_info .panel-body label.control-label {
+    text-align: right;
+    margin-top: 0;
+}
+.panel.seller_info .panel-body label.control-label + div .form-control-static {
+    margin-top: 0;
+}
+.panel.seller_info .panel-body label.control-label i {
+    color: #00aff0;
+}
+.bootstrap .panel.seller_info .info_status .ets_mp_status {
+    margin-top: 5px;
+}
+.panel.seller_info .info_status span.ets_mp_status {
+    margin-top: 0;
+}
+span.ets_tooltip {
+    position: absolute;
+    font-size: 12px;
+    font-family: Open sans, sans-serif;
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+}
+i.fa-question-circle {
+    position: relative;
+}
+i.fa-question-circle span.ets_tooltip[data-tooltip="top"] {
+    bottom: 100%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    margin-bottom: 10px;
+    left: 50%;
+    line-height: 1.2;
+    width: 300px;
+    text-align: center;
+}
+i.fa-question-circle span.ets_tooltip[data-tooltip="top"]:before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    border-top: 5px solid #000;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    left: 50%;
+    margin-left: -5px;
+}
+i.fa-question-circle:hover span.ets_tooltip{
+    opacity: 1;
+    visibility: visible;
+}
+.form-horizontal.label_bold label.control-label {
+    font-weight: 600;
+}
+.search.search-with-icon {
+    position: relative;
+}
+.search.search-with-icon input.ac_input {
+    margin: 0!important;
+    display: block;
+    padding: 5px 32px 5px 10px;
+    font-size: 13px;
+    height: 34px;
+}
+.search-with-icon .seller_selected {
+    border: 1px solid #2eb5d2;
+    margin: 0;
+    background: #2eb5d2;
+    font-size: 12px;
+    padding: 2px 6px 2px 10px;
+    color: #fff;
+    position: absolute;
+    z-index: 10;
+    line-height: 24px;
+    display: flex;
+    display: -webkit-flex;
+    top: 2px;
+    max-width: 95%;
+    height: 30px;
+    left: 2px;
+    border-radius: 3px;
+}
+.search.search-with-icon.has_seller:after {
+    opacity: 0;
+}
+.search.search-with-icon input[type="hidden"] {
+    display: none!important;
+}
+body .search.search-with-icon:after {
+    top: 7px;
+    margin-top: 0;
+}
+ul.list_sellers li {
+    padding: 5px 10px;
+    font-size: 13px;
+    cursor: pointer;
+}
+span.delete_seller_search:before {
+    content: "+";
+    font-size: 20px;
+    line-height: 20px;
+    position: relative;
+    transform: rotate(45deg) translateY(3px);
+    -webkit-transform: rotate(45deg) translateY(3px);
+    display: inline-block;
+}
+span.delete_seller_search {
+    font-size: 0;
+    margin-left: 8px;
+    position: relative;
+    margin-right: -2px;
+    cursor: pointer;
+}
+.seller_selected + input.form-control.ac_input::-webkit-input-placeholder {
+  color: transparent!important;
+}
+#growls-default .growl-title{
+    display:none;
+}
+
+.seller_selected + input.form-control.ac_input:-ms-input-placeholder {
+  color: transparent!important;
+}
+
+.seller_selected + input.form-control.ac_input::placeholder {
+  color: transparent!important;
+}
+ul.list_sellers li.active {
+    background: #25b9d7;
+    color: #fff;
+}
+.seller_selected + input.form-control.ac_input{
+    pointer-events: none;
+}
+.search-with-icon .seller_selected ~ ul.list_sellers {
+    display: none;
+}
+ul.list_sellers {
+    padding: 0;
+    list-style: none;
+    border: 1px solid #bbcdd2;
+    margin-top: -1px;
+}
+
+

@@ -1,0 +1,7 @@
+Hola administrador,
+{seller_name} acaba de subir un nuevo producto al mercado
+Correo electrónico del vendedor: {seller_email}
+Nombre de tienda: {shop_seller}
+Identificación de producto: {product_ID}
+Nombre del producto: {product_name}
+Tuyo sinceramente.

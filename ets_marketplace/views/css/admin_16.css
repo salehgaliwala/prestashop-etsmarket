@@ -1,0 +1,16 @@
+body .etsmp-left-panel.etsmp-sidebar-menu {
+    top: 135px;
+}
+#subtab-AdminMarketPlaceRegistrations b.total,#subtab-AdminMarketPlaceSellers b.total {
+    background: #ce0505;
+    border-radius: 50%;
+    min-width: 18px;
+    display: inline-block;
+    text-align: center;
+    font-weight: normal;
+    height: 18px;
+    font-size: 11px;
+    color: #fff!important;
+    line-height: 18px;
+    vertical-align: middle;
+}

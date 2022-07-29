@@ -1,0 +1,4 @@
+Ciao {customer_name},
+{seller_name} ha appena risposto al tuo contatto su {message_title}
+{content_message}
+Rispondi

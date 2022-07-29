@@ -1,0 +1,6 @@
+Bonjour {seller_name},
+Votre compte vendeur sera désactivé le {date}. Si vous souhaitez continuer à utiliser le compte vendeur, veuillez nous envoyer les frais récurrents avant le {date}
+Montant des frais : {fee_amount}
+Voici nos informations de paiement :
+{payment_information}
+Cordialement.

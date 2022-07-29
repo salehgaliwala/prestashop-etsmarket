@@ -1,0 +1,3 @@
+Ciao {seller_name},
+Congratulazioni! Il tuo negozio è ora attivato.
+Sinceramente tuo.

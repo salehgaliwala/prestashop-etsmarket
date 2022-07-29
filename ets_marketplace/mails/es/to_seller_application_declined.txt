@@ -1,0 +1,4 @@
+Hola {seller_name},
+Su solicitud ha sido rechazada.
+Razón: {application_declined_reason}
+Tuyo sinceramente.

@@ -1,0 +1,8 @@
+Hi Admin,
+A new withdrawal request has been submitted. Please review detailed information of this request and process it:
+Withdrawal ID: {withdrawal_ID}
+Withdrawal amount: {amount}
+From seller: {seller_name}
+Payment method: {payment_method}
+Created date: {created_date}
+Processed date (estimated): {processed_date}

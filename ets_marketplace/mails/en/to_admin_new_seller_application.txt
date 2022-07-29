@@ -1,0 +1,3 @@
+Hi Admin,
+{seller_name} has just submitted an application to join marketplace
+{seller_application_content_txt}

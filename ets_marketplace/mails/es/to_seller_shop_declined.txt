@@ -1,0 +1,4 @@
+Hola {seller_name},
+¡Lo siento! Se rechazó la creación de su tienda.
+Razón: {reason}
+Tuyo sinceramente.

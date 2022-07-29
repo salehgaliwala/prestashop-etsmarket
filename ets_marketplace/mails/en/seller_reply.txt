@@ -1,0 +1,4 @@
+Hi {customer_name},
+{seller_name} just replied to your contact on {message_title}
+{content_message}
+Reply

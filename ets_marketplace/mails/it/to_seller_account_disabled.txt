@@ -1,0 +1,5 @@
+Ciao,
+Il tuo account venditore è appena stato disattivato.
+Motivo: {reason}
+Se desideri continuare a utilizzare l'account venditore, ti preghiamo di contattarci tramite la nostra e-mail: {store_email}
+Sinceramente tuo.

@@ -1,0 +1,6 @@
+Hola {seller_name},
+Su solicitud de retiro ha sido aprobada. A continuación se muestra información detallada de la solicitud de retiro:
+Identificación de retiro: {withdrawal_ID}
+Cantidad de retiro: {amount}
+Método de pago: {payment_method}
+Fecha aprobada: {approved_date}

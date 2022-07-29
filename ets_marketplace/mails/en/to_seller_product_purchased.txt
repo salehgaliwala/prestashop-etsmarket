@@ -1,0 +1,10 @@
+Hi {seller_name},
+{customer_name} has purchased some products from {seller_shop}
+Order details
+Products: 
+{product_detail_txt}
+Order reference: {order_reference} 
+Total payment: {total_payment}
+Purchased date: {purchased_date}
+Order status: {order_status}
+Yours sincerely.

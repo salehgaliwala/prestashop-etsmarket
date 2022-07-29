@@ -1,0 +1,5 @@
+Hola {seller_name},
+{reporter} acaba de informar que su tienda {shop_name} creada por {shop_seller} es abusada.
+{title}
+{content}
+Ver tienda : {link_report}

@@ -1,0 +1,5 @@
+Bonjour {seller_name},
+Une facturation est créée pour vous. Veuillez télécharger la facture en pièce jointe, puis nous envoyer le paiement.
+Voici nos informations de paiement :
+{payment_information}
+Cordialement.

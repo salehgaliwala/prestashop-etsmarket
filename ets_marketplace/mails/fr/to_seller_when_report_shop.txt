@@ -1,0 +1,5 @@
+Bonjour {seller_name},
+{reporter} vient de signaler que votre boutique {shop_name} créée par {shop_seller} est abusive.
+{title}
+{content}
+Voir la boutique : {link_report}

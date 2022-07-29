@@ -1,0 +1,5 @@
+Bonjour,
+Vous avez été autorisé par {seller_name} à gérer sa boutique dans le {shop_name}. Contenu autorisé que vous pouvez voir ci-dessous :
+{permission}
+Meilleures salutations,
+Veuillez cliquer sur ce lien pour accepter ou refuser la demande : {link_account}

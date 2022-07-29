@@ -1,0 +1,6 @@
+Hi {seller_name},
+Thanks for joining our marketplace. The process is almost done. 
+To become a seller and start selling your products, please send registration fee {fee_amount} to us to complete the registration process
+Here is our payment information:
+{payment_information}
+Yours sincerely.

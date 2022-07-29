@@ -1,0 +1,5 @@
+Ciao {seller_name},
+{reporter} ha appena segnalato il tuo prodotto {product_name} su {shop_seller} come abusato.
+{title}
+{content}
+Visualizza il prodotto: {link_report}

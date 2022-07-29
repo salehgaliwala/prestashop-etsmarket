@@ -1,0 +1,5 @@
+Hi {seller_name},
+A billing is created for you. Please download the invoice in attachment, then send the payment to us
+Here is our payment information:
+{payment_information}
+Yours sincerely.

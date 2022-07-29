@@ -1,0 +1,6 @@
+Ciao {seller_name},
+La tua richiesta di prelievo è stata approvata. Di seguito sono riportate informazioni dettagliate sulla richiesta di prelievo:
+ID prelievo: {withdrawal_ID}
+Importo del prelievo: {amount}
+Metodo di pagamento: {payment_method}
+Data approvata: {approved_date}

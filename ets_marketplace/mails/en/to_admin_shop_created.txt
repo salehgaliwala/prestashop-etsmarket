@@ -1,0 +1,7 @@
+Hi Admin,
+{seller_name} has just created a shop
+Below are shop information:
+Shop name: {shop_seller_name}
+Shop description: {shop_description}
+Shop address: {shop_address}
+Shop phone: {shop_phone}

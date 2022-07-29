@@ -1,0 +1,7 @@
+Hi Admin,
+Seller {seller_name} has just uploaded new product to marketplace
+Seller email: {seller_email}
+Shop name: {shop_seller}
+Product ID: {product_ID}
+Product name: {product_name}
+Yours sincerely.

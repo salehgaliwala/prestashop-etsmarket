@@ -1,0 +1,5 @@
+Ciao {seller_name},
+La tua domanda è stata rifiutata.
+Motivo: {application_declined_reason}
+Sinceramente tuo.
+

@@ -1,0 +1,7 @@
+Hola {seller_name},
+Su cuenta de vendedor expirará el {date}. Envíenos la tarifa recurrente para renovar su cuenta de vendedor.
+Importe de la tarifa: {fee_amount}
+Aquí está nuestra información de pago:
+{payment_information}
+Tuyo sinceramente.
+

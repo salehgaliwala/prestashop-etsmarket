@@ -1,0 +1,6 @@
+Ciao,
+Il tuo account venditore verrà disattivato il {date}. Se desideri continuare a utilizzare l'account venditore, inviaci la tariffa ricorrente entro il {date}
+Importo tariffa: {fee_amount}
+Ecco le nostre informazioni di pagamento:
+{payment_information}
+Sinceramente tuo.

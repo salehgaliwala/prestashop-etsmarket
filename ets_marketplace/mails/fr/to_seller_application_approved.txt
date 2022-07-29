@@ -1,0 +1,5 @@
+Bonjour {seller_name},
+Votre candidature a été acceptée.
+Vous pouvez créer votre boutique maintenant.
+Cordialement.
+

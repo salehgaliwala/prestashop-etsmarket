@@ -1,0 +1,8 @@
+Bonjour administrateur,
+Une nouvelle demande de retrait a été soumise. Veuillez consulter les informations détaillées de cette demande et la traiter :
+ID de retrait : {withdrawal_ID}
+Montant de retrait : {amount}
+Du vendeur : {seller_name}
+Mode de paiement : {payment_method}
+Date confirmée : {created_date}
+Date de traitement (estimée) : {processed_date}

@@ -1,0 +1,4 @@
+Ciao {seller_name},
+Scusa! La creazione del tuo negozio è stata rifiutata.
+Motivo: {reason}
+Sinceramente tuo.

@@ -1,0 +1,7 @@
+Ciao amministratore,
+Venditore {seller_name} ha appena caricato un nuovo prodotto sul mercato
+Email del venditore: {seller_email}
+Nome del negozio: {shop_seller}
+ID del prodotto: {product_ID}
+Nome del prodotto: {product_name}
+Sinceramente tuo.

@@ -1,0 +1,3 @@
+Hi {seller_name},
+Your seller account has just been disabled. If you want to continue using this seller account, please contact us via our email: {store_email}
+Yours sincerely.

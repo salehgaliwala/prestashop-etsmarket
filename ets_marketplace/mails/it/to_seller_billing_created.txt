@@ -1,0 +1,5 @@
+Ciao {seller_name},
+Una fatturazione è stata creata per te. Scarica la fattura in allegato, quindi inviaci il pagamento
+Ecco le nostre informazioni di pagamento:
+{payment_information}
+Sinceramente tuo.

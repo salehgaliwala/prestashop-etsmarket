@@ -1,0 +1,6 @@
+Hi {seller_name},
+Your product {product_name} has been declined. 
+Product ID: {product_ID}
+Reason: {reason}
+Thanks for your time. 
+Yours sincerely.
